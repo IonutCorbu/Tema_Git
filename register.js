@@ -1,0 +1,1 @@
+interfata pentru register - partea de frontend
