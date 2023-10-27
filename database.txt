@@ -1,0 +1,3 @@
+fisierul cu baza de date
+va fi folosit pentru interogare astfel
+incat sa obtinem resurse pentru pagina noastra web
