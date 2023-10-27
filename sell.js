@@ -1,0 +1,1 @@
+interfata frontend pentru pagina de sell a unui utilizator
