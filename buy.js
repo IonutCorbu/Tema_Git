@@ -1,0 +1,1 @@
+interfata pentru pagina de cumparare de produse - frontend pentru cumparare
